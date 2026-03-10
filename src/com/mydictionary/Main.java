@@ -42,7 +42,7 @@ public class Main {
         }
 
         // Remove some elements from dictionary.
-        myDictionary.remove("myDictionary");
+        myDictionary.remove("Flooding");
         myDictionary.remove("Earthquake");
 
         // Print elements of myDictionary to console.
